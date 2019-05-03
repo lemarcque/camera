@@ -8,3 +8,7 @@ I created this application for additional training before passing the android ce
 Technical skills learned :
 - How to to use the [Camera2](https://developer.android.com/reference/android/hardware/camera2/package-summary) API to get camera's device characteristic and taking pictures with.
 - Apply my first Android mobile application written in _kotlin_ (previous was in Java since 2017)
+
+
+Resources: 
+- [Camera Sessions & Request](https://medium.com/androiddevelopers/understanding-android-camera-capture-sessions-and-requests-4e54d9150295)
