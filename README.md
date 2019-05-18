@@ -1,6 +1,11 @@
 # camera
 Android mobile application for taking pictures.
 
+
+<p align="center">
+  <img src="https://github.com/lemarcque/camera/blob/master/screenshots.gif" width="280 "/>
+</p>
+
 ## Desription
 I created this application for additional training before passing the android certification examen. The code source of this project is coded in Kotlin, the new languages supported by Android team for doing Android development which add more challenges to the task because i am freshly started finishing learning the basics.
 
